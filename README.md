@@ -14,13 +14,13 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     3. Escritura en Markdown
     4. Introducción a Algoritmos
   
-2. **Cálculos simples	**
+2. **Cálculos simples**
     1. Tipos de datos
     2. Operaciones básicas
     3. Listas y matrices
     4. Operaciones entre matrices
     
-3.**Administración de rutas, carga de datos e instalación de paquetes**	
+3. **Administración de rutas, carga de datos e instalación de paquetes**	
     1. Instalación y carga de paquetes
     2. Espacio de trabajo
     3. Bases de datos predeterminadas
@@ -43,6 +43,7 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     2. Pandas
     3. Matplotlib
     4. Seaborn
+    
 7. **Visualización con R**
     1. Summary
     2. GGplot
