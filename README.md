@@ -54,4 +54,3 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     1. Frecuencia de palabras
     2. WordCloud
     
-## Primera Clase: Instalación 
