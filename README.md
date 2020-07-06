@@ -9,12 +9,12 @@ Hagamos una exploración sencilla en Python. El material aquí disponible nos gu
 ## Contenido
 
 1. **Preliminares**
-    1. Instalación Anaconda.
-    2. Alternativas Online.
-    3. Escritura en Markdown.
-    4. Introducción a Algoritmos.
-    5. Instalación de otros núcleos.
-    6. Ambientes de trabajo
+    1. [Instalación Anaconda](Cuadernos/Instalación de Anaconda.ipynb)
+    2. [Alternativas Online](Cuadernos/Alternativas Online.ipynb)
+    3. [Escritura en Markdown](https://daringfireball.net/projects/markdown/basics)
+    4. Introducción a Algoritmos
+    5. [Instalación de otros núcleos](Cuadernos/Instalando_Kernels.ipynb)
+    6. [Ambientes de trabajo](Cuadernos/Ambientes.ipynb)
   
 2. **Cálculos simples**
     1. Tipos de datos
