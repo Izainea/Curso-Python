@@ -1,18 +1,20 @@
-# Curso R y Python
+# Curso Python
 **Universidad Central**
 **Maestría en Analítica de Datos**
 
-*Carlos Zainea, Daniel Montenegro y Luis Campos*
+*Carlos Zainea*
 
-Repositorio con el material del curso exprés de R y Python ofrecido por la Universidad Central en el primer semestre de 2020. El material aquí disponible nos guía desde la instalación de Anaconda y R hasta el procesamiento elemental de algunas bases de datos. 
+Hagamos una exploración sencilla en Python. El material aquí disponible nos guía desde la instalación de Anaconda hasta el procesamiento elemental de algunas bases de datos. 
 
 ## Contenido
 
 1. **Preliminares**
-    1. Instalación Anaconda, R y R-Studio
-    2. Alternativas Online
-    3. Escritura en Markdown
-    4. Introducción a Algoritmos
+    1. Instalación Anaconda.
+    2. Alternativas Online.
+    3. Escritura en Markdown.
+    4. Introducción a Algoritmos.
+    5. Instalación de otros núcleos.
+    6. Ambientes de trabajo
   
 2. **Cálculos simples**
     1. Tipos de datos
@@ -43,12 +45,6 @@ Repositorio con el material del curso exprés de R y Python ofrecido por la Univ
     2. Pandas
     3. Matplotlib
     4. Seaborn
-    
-7. **Visualización con R**
-    1. Summary
-    2. GGplot
-    3. Lattice
-    4. Highcharter
     
 8. **Procesamiento de texto**
     1. Frecuencia de palabras
