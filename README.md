@@ -9,8 +9,8 @@ Hagamos una exploración sencilla en Python. El material aquí disponible nos gu
 ## Contenido
 
 1. **Preliminares**
-    1. [Instalación Anaconda](Cuadernos/Instalación de Anaconda.ipynb)
-    2. [Alternativas Online](Cuadernos/Alternativas Online.ipynb)
+    1. [Instalación Anaconda ](Cuadernos/Instalación-de-Anaconda.ipynb)
+    2. [Alternativas Online](Cuadernos/Alternativas-Online.ipynb)
     3. [Escritura en Markdown](https://daringfireball.net/projects/markdown/basics)
     4. Introducción a Algoritmos
     5. [Instalación de otros núcleos](Cuadernos/Instalando_Kernels.ipynb)
