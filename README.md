@@ -17,8 +17,7 @@ Hagamos una exploración sencilla en Python. El material aquí disponible nos gu
     6. [Ambientes de trabajo](https://github.com/Izainea/Curso-Python/blob/master/Cuadernos/Ambientes.ipynb)
   
 2. **Cálculos simples**
-    1. Tipos de datos
-    2. Operaciones básicas
+    1. [Introducción al lenguaje Python](https://github.com/Izainea/Curso-Python/blob/master/Cuadernos/Introducci%C3%B3n%20al%20lenguaje%20Python.ipynb)
     3. Listas y matrices
     4. Operaciones entre matrices
     
