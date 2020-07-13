@@ -18,8 +18,8 @@ Hagamos una exploración sencilla en Python. El material aquí disponible nos gu
   
 2. **Cálculos simples**
     1. [Introducción al lenguaje Python](https://github.com/Izainea/Curso-Python/blob/master/Cuadernos/Introducci%C3%B3n%20al%20lenguaje%20Python.ipynb)
-    3. Listas y matrices
-    4. Operaciones entre matrices
+    3. [Listas y matrices](https://github.com/Izainea/Curso-Python/blob/master/Cuadernos/Listas%20y%20arreglos%20de%20Python.ipynb)
+    4. [Operaciones entre matrices]()
     
 3. **Administración de rutas, carga de datos e instalación de paquetes**	
     1. Instalación y carga de paquetes
