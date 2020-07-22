@@ -1,6 +1,4 @@
 # Curso Python
-**Universidad Central**
-**Maestría en Analítica de Datos**
 
 *Carlos Zainea*
 
@@ -21,31 +19,9 @@ Hagamos una exploración sencilla en Python. El material aquí disponible nos gu
     3. [Listas y matrices](https://github.com/Izainea/Curso-Python/blob/master/Cuadernos/Listas%20y%20arreglos%20de%20Python.ipynb)
     4. [Operaciones entre matrices](https://github.com/Izainea/Curso-Python/blob/master/Cuadernos/Numpy.ipynb)
     
-3. **Administración de rutas, carga de datos e instalación de paquetes**	
-    1. Instalación y carga de paquetes
-    2. Espacio de trabajo
-    3. Bases de datos predeterminadas
-    4. Carga de datos físicos
-    5. Carga de datos online
-    6. Uso de repositorios
-    
-4. **Estructuras de control**	
-    1. Condicionales
-    2. Ciclos
-    3. Casos y conmutadores
-    
-5. **Funciones**
-    1. Funciones de programación: parámetros y variables
-    2. Documentación
-    3. Creación de funciones
-    
-6.	**Visualización con Python**
-    1. Introducción a estadística descriptiva
-    2. Pandas
-    3. Matplotlib
-    4. Seaborn
-    
-8. **Procesamiento de texto**
-    1. Frecuencia de palabras
-    2. WordCloud
+3. **Leyendo bases de datos**	
+    1. [Ambientes](https://github.com/Izainea/Curso-Python/blob/master/Cuadernos/Ambientes.ipynb)
+    2. [Bases de datos](https://github.com/Izainea/Curso-Python/blob/master/Cuadernos/Pandas-C.ipynb)
+   
+
     
